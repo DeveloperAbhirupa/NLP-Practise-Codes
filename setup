@@ -1,0 +1,4 @@
+1. install nltk in System
+2. import nltk
+   nltk.download()
+
